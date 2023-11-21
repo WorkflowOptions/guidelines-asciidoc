@@ -1,0 +1,51 @@
+= xx_nnnn: Title of the guideline (unique, short)
+:hardbreaks-option:
+
+== Sub ID Recommendations
+* NA-MAAB — X, Y, Z
+* JMAAB — X, Y
+
+== MATLAB Versions
+all
+Rx, Ry, Rz
+Rx and earlier
+
+== Rule
+=== Sub ID X
+(Description of the guideline)
+
+* Item
+* Item
+
+*Custom Parameter*
+(Parameter Name)
+
+*Example - Correct*
+【Correct】 (Correct image and comment in description)
+
+.An Image Caption
+image::Correct.png[]
+
+*Example - Incorrect*
+【Incorrect】 (Error image and comment in description)
+
+== Rationale
+Sub IDs Xn
+
+* (Rationale)
+
+Sub IDs Yn
+
+* (Rationale)
+
+== Verification
+Check
+
+== Last Changed
+R2020a
+
+== See Also
+* XYZ
+
+== Version History
+(History)
