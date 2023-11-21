@@ -27,8 +27,12 @@ s|Custom Parameter
 .3+|xn
 2+|(Description of the guideline)
 |(Parameter Name)
-3+|【Correct】 (Correct image and comment in description)
-3+|【Incorrect】 (Error image and comment in description)
+3+a|[Correct] (Correct image and comment in description)
+
+image::Correct.png[]
+
+Correct image
+3+|[incorrect] (Error image and comment in description)
 
 4+s|Rationale
 s|Sub ID
