@@ -1,6 +1,11 @@
 = xx_nnnn: Title of the guideline (unique, short)
 :hardbreaks-option:
 
+Guidelines are documented by using a standard template. Use of this template is recommended when creating original quidelines.
+
+NOTE: This template specifies the minimum requirements that are needed to understand a guideline.
+New items can be added to the template as long as they do not duplicate existing information.
+
 == Sub ID Recommendations
 * NA-MAAB — X, Y, Z
 * JMAAB — X, Y
@@ -21,13 +26,13 @@ Rx and earlier
 (Parameter Name)
 
 *Example - Correct*
-【Correct】 (Correct image and comment in description)
+[Correct] (Correct image and comment in description)
 
 .An Image Caption
 image::Correct.png[]
 
 *Example - Incorrect*
-【Incorrect】 (Error image and comment in description)
+[Incorrect] (Error image and comment in description)
 
 == Rationale
 Sub IDs Xn
