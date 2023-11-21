@@ -20,4 +20,6 @@ jobs:
     - uses: actions/upload-artifact@v3
       with:
           name: pdf-report
-          path: templateA.pdf templateB.pdf
+          path: |
+            templateA.pdf
+            templateB.pdf
