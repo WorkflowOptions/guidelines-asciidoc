@@ -14,9 +14,10 @@ jobs:
     - run: gem install asciidoctor asciidoctor-pdf
     - run: asciidoctor --version
     - run: asciidoctor-pdf -v
-    - run: asciidoctor-pdf template.adoc
+    - run: asciidoctor-pdf templateA.adoc
+    - run: asciidoctor-pdf templateB.adoc
     - run: ls -al
     - uses: actions/upload-artifact@v3
       with:
           name: pdf-report
-          path: template.pdf
+          path: templateA.pdf templateB.pdf
