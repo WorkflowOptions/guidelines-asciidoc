@@ -9,7 +9,7 @@ JMAAB v5.1
 JMAAB v6.0
 MATLAB Version: All
 
-===Sub-ID Recommendations
+=== Sub-ID Recommendations
 
 NA-MAAB: a, b, c, d, e
 JMAAB: a, b, c, d, e
