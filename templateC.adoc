@@ -1,0 +1,16 @@
+= xx_nnnn: Title of the guideline (unique, short)
+:hardbreaks-option:
+
+Guidelines are documented by using a standard template. Use of this template is recommended when creating original quidelines.
+
+NOTE: This template specifies the minimum requirements that are needed to understand a guideline.
+New items can be added to the template as long as they do not duplicate existing information.
+
+== Sub ID Recommendations
+* NA-MAAB — X, Y, Z
+* JMAAB — X, Y
+
+== MATLAB Versions
+all
+Rx, Ry, Rz
+Rx and earlier
