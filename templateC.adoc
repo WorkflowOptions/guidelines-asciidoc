@@ -1,24 +1,66 @@
-ifdef::env-github[]
-:tip-caption: :bulb:
-:note-caption: :information_source:
-:important-caption: :heavy_exclamation_mark:
-:caution-caption: :fire:
-:warning-caption: :warning:
-endif::[]
+= db_xxxx: Stateflow transition appearance
+Since R2020a
+ 
+=== Usage:  MAB
+=== Prerequisite: hisl_0700: Requirements linking
+=== Guideline Publication: Control Algorithm Modeling Guidelines - Using MATLAB®, Simulink®, and Stateflow® 
+MAB v5.0 
+JMAAB v5.1
+JMAAB v6.0
+MATLAB Version: All
 
-= xx_nnnn: Title of the guideline (unique, short)
-:hardbreaks-option:
+===Sub-ID Recommendations
 
-Guidelines are documented by using a standard template. Use of this template is recommended when creating original quidelines.
+NA-MAAB: a, b, c, d, e
+JMAAB: a, b, c, d, e
 
-NOTE: This template specifies the minimum requirements that are needed to understand a guideline.
-New items can be added to the template as long as they do not duplicate existing information.
+=== Rule
+Provide guideance on modeling Stateflow transitions
+[cols="<1,<6"]
+|===
+2+s|db_xxxx: Stateflow transition appearance
 
-== Sub ID Recommendations
-* NA-MAAB — X, Y, Z
-* JMAAB — X, Y
+|sub ID a
+| Transition lines shall not cross over one another
 
-== MATLAB Versions
-all
-Rx, Ry, Rz
-Rx and earlier
+*Custom Parameter*
+Not applicable
+
+*Rationale*
+Difficult to understand the relationship between states
+
+*Tips*
+rule specific tip
+
+*Verification*
+Add link to the check
+
+*Correct*
+Correct example goes here
+
+*Incorrect*
+Incorrect example goes here
+
+
+|sub ID b
+| Transition lines shall not cross over other transition lines
+
+*Custom Parameter*
+Not applicable
+
+*Rationale*
+Difficult to understand the relationship between states and transition lines
+
+*Tips*
+rule specific tip
+
+*Verification*
+Add link to the check
+
+*Correct*
+Correct example goes here
+
+*Incorrect*
+Incorrect example goes here
+
+|===
