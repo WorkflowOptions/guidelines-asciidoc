@@ -1,13 +1,13 @@
+:hardbreaks-option:
 = db_xxxx: Stateflow transition appearance
 Since R2020a
  
 === Usage:  MAB
 === Prerequisite: hisl_0700: Requirements linking
 === Guideline Publication: Control Algorithm Modeling Guidelines - Using MATLAB®, Simulink®, and Stateflow® 
-MAB v5.0 
-JMAAB v5.1
-JMAAB v6.0
-MATLAB Version: All
+https://github.com/WorkflowOptions/guidelines-asciidoc/blob/AddTemplate/templateA.adoc[MAB v5.0] | https://github.com/WorkflowOptions/guidelines-asciidoc/blob/AddTemplate/templateA.adoc[JMAAB v5.1] | https://github.com/WorkflowOptions/guidelines-asciidoc/blob/AddTemplate/templateA.adoc[JMAAB v6.0] 
+
+*MATLAB Version:* All
 
 === Sub-ID Recommendations
 
@@ -64,3 +64,4 @@ Correct example goes here
 Incorrect example goes here
 
 |===
+
